@@ -1,0 +1,1844 @@
+{
+  "colleges": [
+    {
+      "s.n": 1,
+      "collegename": "COLLEGE OF AGRICULTURE, DUNGARPUR",
+      "CollegeCity": "Dungarpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 2,
+      "collegename": "COLLEGE OF AGRICULTURE DUNGARPUR",
+      "CollegeCity": "Dungarpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 10,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 3,
+      "collegename": "COLLEGE OF AGRICULTURE SUWANA-BHILWARA",
+      "CollegeCity": "Bhilwara",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 40,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 4,
+      "collegename": "COLLEGE OF AGRICULTURE SUWANA BHILWARA",
+      "CollegeCity": "Bhilwara",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 22,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 5,
+      "collegename": "RAJASTHAN COLLEGE OF AGRICULTURE, UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 70,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 6,
+      "collegename": "RAJASTHAN COLLEGE OF AGRICULTURE, UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 104,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 7,
+      "collegename": "COLLEGE OF AGRICULTURE KISHANGARH BAS-ALWAR",
+      "CollegeCity": "Alwar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 44,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 8,
+      "collegename": "COLLEGE OF AGRICULTURE KISHANGARH BAS-ALWAR",
+      "CollegeCity": "Alwar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 20,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 9,
+      "collegename": "COLLEGE OF AGRICULTURE NAVGAON ALWAR",
+      "CollegeCity": "Alwar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 44,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 10,
+      "collegename": "COLLEGE OF AGRICULTURE NAVGAON ALWAR",
+      "CollegeCity": "Alwar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 20,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 11,
+      "collegename": "COLLEGE OF AGRICULTURE BASEDI, DHOLPUR",
+      "CollegeCity": "Dholpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 44,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 12,
+      "collegename": "COLLEGE OF AGRICULTURE BASEDI, DHOLPUR",
+      "CollegeCity": "Dholpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 20,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 13,
+      "collegename": "COLLEGE OF AGRICULTURE BHUSAWAR (WEIR) BHARATPUR",
+      "CollegeCity": "Bharatpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 44,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 14,
+      "collegename": "COLLEGE OF AGRICULTURE BHUSAWAR (WEIR) BHARATPUR",
+      "CollegeCity": "Bharatpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 20,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 15,
+      "collegename": "COLLEGE OF AGRICULTURE FATEHPUR SHEKHAWATI",
+      "CollegeCity": "Sikar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 88,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 16,
+      "collegename": "COLLEGE OF AGRICULTURE FATEHPUR-SHEKHAWATI",
+      "CollegeCity": "Sikar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 40,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 17,
+      "collegename": "COLLEGE OF AGRICULTURE JHILAI-TONK",
+      "CollegeCity": "Tonk",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 44,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 18,
+      "collegename": "COLLEGE OF AGRICULTURE JHILAI-TONK",
+      "CollegeCity": "Tonk",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 20,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 19,
+      "collegename": "COLLEGE OF AGRICULTURE KOTPUTALI, JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 44,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 20,
+      "collegename": "COLLEGE OF AGRICULTURE KOTPUTALI, JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 20,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 21,
+      "collegename": "COLLEGE OF AGRICULTURE KUMHER-BHARATPUR",
+      "CollegeCity": "Bharatpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 88,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 22,
+      "collegename": "COLLEGE OF AGRICULTURE, KUMHER BHARATPUR",
+      "CollegeCity": "Bharatpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 40,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 23,
+      "collegename": "COLLEGE OF AGRICULTURE LALSOT",
+      "CollegeCity": "Dausa",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 36,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 24,
+      "collegename": "COLLEGE OF AGRICULTURE LALSOT",
+      "CollegeCity": "Dausa",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 20,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 25,
+      "collegename": "COLLEGE OF AGRICULTURE PEETHAMPURI-SIKAR",
+      "CollegeCity": "Sikar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 44,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 26,
+      "collegename": "COLLEGE OF AGRICULTURE PEETHAMPURI-SIKAR",
+      "CollegeCity": "Sikar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 20,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 27,
+      "collegename": "SKN COLLEGE OF AGRICULTURE, JOBNER",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 70,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 28,
+      "collegename": "SKN COLLEGE OF AGRICULTURE, JOBNER",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 54,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 29,
+      "collegename": "COLLEGE OF AGRICULTURE BIKANER",
+      "CollegeCity": "Bikaner",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 74,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 30,
+      "collegename": "COLLEGE OF AGRICULTURE BIKANER",
+      "CollegeCity": "Bikaner",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 40,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 31,
+      "collegename": "COLLEGE OF AGRICULTURE CHANDGOTHI",
+      "CollegeCity": "Churu",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 50,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 32,
+      "collegename": "COLLEGE OF AGRICULTURE CHANDGOTHI",
+      "CollegeCity": "Churu",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 16,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 33,
+      "collegename": "COLLEGE OF AGRICULTURE HANUMANGARH",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 50,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 34,
+      "collegename": "COLLEGE OF AGRICULTURE HANUMANGARH",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 16,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 35,
+      "collegename": "COLLEGE OF AGRICULTURE SRIGANGANAGAR",
+      "CollegeCity": "Sriganganagar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 80,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 36,
+      "collegename": "COLLEGE OF AGRICULTURE SRIGANGANAGAR",
+      "CollegeCity": "Sriganganagar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 40,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 37,
+      "collegename": "LATE SHRI RAMNARAYAN CHOUDHARY AGRICULTURE COLLEGE, MANDAWA",
+      "CollegeCity": "Jhunjhunu",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 50,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 38,
+      "collegename": "LATE SHRI RAMNARAYAN CHOUDHARY AGRICULTURE COLLEGE, MANDAWA",
+      "CollegeCity": "Jhunjhunu",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 16,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 39,
+      "collegename": "COLLEGE OF COMMUNITY AND APPLIED SCIENCES (CCAS), UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "COMMUNITY SCIENCE/ HOME SCIENCE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 35,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 40,
+      "collegename": "COLLEGE OF COMMUNITY AND APPLIED SCIENCES (CCAS), UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "COMMUNITY SCIENCE/ HOME SCIENCE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 6,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 41,
+      "collegename": "COLLEGE OF COMMUNITY SCIENCE, BIKANER",
+      "CollegeCity": "Bikaner",
+      "CourseOffered": "COMMUNITY SCIENCE/ HOME SCIENCE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 32,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 42,
+      "collegename": "COLLEGE OF DAIRY & FOOD TECHNOLOGY, JODHPUR",
+      "CollegeCity": "Jodhpur",
+      "CourseOffered": "DAIRY TECHNOLOGY",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 25,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 43,
+      "collegename": "COLLEGE OF DAIRY & FOOD TECHNOLOGY, JODHPUR",
+      "CollegeCity": "Jodhpur",
+      "CourseOffered": "DAIRY TECHNOLOGY",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 15,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 44,
+      "collegename": "COLLEGE OF DAIRY AND FOOD TECHNOLOGY (CDFT), UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "DAIRY TECHNOLOGY",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 24,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 45,
+      "collegename": "COLLEGE OF DAIRY AND FOOD TECHNOLOGY (CDFT), UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "DAIRY TECHNOLOGY",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 30,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 46,
+      "collegename": "COLLEGE OF DAIRY & FOOD TECHNOLOGY (CDFT), JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "DAIRY TECHNOLOGY",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 40,
+      "UniversityName": "RAJUVAS, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 47,
+      "collegename": "COLLEGE OF DAIRY SCIENCE & TECHNOLOGY (CDST), BIKANER",
+      "CollegeCity": "Bikaner",
+      "CourseOffered": "DAIRY TECHNOLOGY",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 40,
+      "UniversityName": "RAJUVAS, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 48,
+      "collegename": "COLLEGE OF DAIRY SCIENCE & TECHNOLOGY, JOBNER",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "DAIRY TECHNOLOGY",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 44,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 49,
+      "collegename": "COLLEGE OF DAIRY SCIENCE & TECHNOLOGY JOBNER",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "DAIRY TECHNOLOGY",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 20,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 50,
+      "collegename": "COLLEGE OF FISHERIES, UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "FISHERIES SCIENCE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 18,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 51,
+      "collegename": "COLLEGE OF FISHERIES, UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "FISHERIES SCIENCE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 23,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 52,
+      "collegename": "COLLEGE OF COMMUNITY AND APPLIED SCIENCES (CCAS), UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "FOOD NUTRITION AND DIETETICS",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 35,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 53,
+      "collegename": "COLLEGE OF COMMUNITY AND APPLIED SCIENCES (CCAS), UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "FOOD NUTRITION AND DIETETICS",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 6,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 54,
+      "collegename": "COLLEGE OF COMMUNITY SCIENCE, BIKANER",
+      "CollegeCity": "Bikaner",
+      "CourseOffered": "FOOD NUTRITION AND DIETETICS",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 32,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 55,
+      "collegename": "COLLEGE OF DAIRY & FOOD TECHNOLOGY, JODHPUR",
+      "CollegeCity": "Jodhpur",
+      "CourseOffered": "FOOD TECHNOLOGY",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 25,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 56,
+      "collegename": "COLLEGE OF DAIRY & FOOD TECHNOLOGY, JODHPUR",
+      "CollegeCity": "Jodhpur",
+      "CourseOffered": "FOOD TECHNOLOGY",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 15,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 57,
+      "collegename": "COLLEGE OF DAIRY AND FOOD TECHNOLOGY (CDFST), UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "FOOD TECHNOLOGY",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 20,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 58,
+      "collegename": "COLLEGE OF DAIRY AND FOOD TECHNOLOGY (CDFST), UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "FOOD TECHNOLOGY",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 30,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 59,
+      "collegename": "COLLEGE OF DAIRY & FOOD TECHNOLOGY (CDFT), JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "FOOD TECHNOLOGY",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 40,
+      "UniversityName": "RAJUVAS, BIKANER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 60,
+      "collegename": "COLLEGE OF HORTICULTURE & FORESTRY, JHALAWAR",
+      "CollegeCity": "Jhalawar",
+      "CourseOffered": "FORESTRY",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 27,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 61,
+      "collegename": "COLLEGE OF HORTICULTURE & FORESTRY, JHALAWAR",
+      "CollegeCity": "Jhalawar",
+      "CourseOffered": "FORESTRY",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 25,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 62,
+      "collegename": "COLLEGE OF HORTICULTURE & FORESTRY, JHALAWAR",
+      "CollegeCity": "Jhalawar",
+      "CourseOffered": "HORTICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 27,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 63,
+      "collegename": "COLLEGE OF HORTICULTURE & FORESTRY, JHALAWAR",
+      "CollegeCity": "Jhalawar",
+      "CourseOffered": "HORTICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 25,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 64,
+      "collegename": "HORTICULTURAL COLLEGE, RARI DURGAPURA",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "HORTICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 44,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 65,
+      "collegename": "HORTICULTURAL COLLEGE, RARI DURGAPURA",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "HORTICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 20,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 66,
+      "collegename": "DAYANAND COLLEGE, AJMER",
+      "CollegeCity": "Ajmer",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 67,
+      "collegename": "GANESHI LAL MEMORIAL AGRICULTURE COLLEGE, KISHANGARH BAS ALWAR",
+      "CollegeCity": "Alwar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 68,
+      "collegename": "LATE MOOL CHAND MEENA AGRICULTURE COLLEGE, LALSOT",
+      "CollegeCity": "Dausa",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 69,
+      "collegename": "MAHARAJA SURAIMAL AGRICULTURE COLLEGE, BHARATPUR",
+      "CollegeCity": "Bharatpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 70,
+      "collegename": "MB COLLEGE OF AGRICULTURE, PURANI-TONK",
+      "CollegeCity": "Tonk",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 71,
+      "collegename": "OP AGRICULTURE COLLEGE BUDHWAL, BEHROR ALWAR",
+      "CollegeCity": "Alwar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 72,
+      "collegename": "PANDIT DEEN DAYAL UPADHAYA AGRICULTURE COLLEGE, TONK",
+      "CollegeCity": "Tonk",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 73,
+      "collegename": "RUKMANI DEVI MEMORIAL COLLEGE OF AGRICULTURE, MANDAWAR",
+      "CollegeCity": "Dausa",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 74,
+      "collegename": "SHEKHAWATI INSTITUTE, SIKAR",
+      "CollegeCity": "Sikar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 75,
+      "collegename": "SHRI VINAYAK COLLEGE OF AGRICULTURE, JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 76,
+      "collegename": "APEX AGRICULTURE COLLEGE HANUMANGARH",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 77,
+      "collegename": "BR COLLEGE OF AGRICULTURE SAHAWA",
+      "CollegeCity": "Churu",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 78,
+      "collegename": "BRIGHT CAREER AGRICULTURE COLLEGE, NOKHA",
+      "CollegeCity": "Bikaner",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 79,
+      "collegename": "CH. GIRDHARI RAM DHAKA AGRICULTURE COLLEGE, HANUMANGARH",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 80,
+      "collegename": "CHOUDHARY NANDRAM MEMORIAL AGRICULTURE COLLEGE, HANUMANGARH",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 81,
+      "collegename": "CHOUDHARY PARMARAM GODARA AGRICULTURE COLLEGE, HANUMANGARH",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 82,
+      "collegename": "GSGD GIRLS AGRICULTURE COLLEGE (ONLY FOR GIRLS), SRIGANGANAGAR",
+      "CollegeCity": "Sriganganagar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 83,
+      "collegename": "MAHARAJA AGARSEN AGRICULTURE COLLEGE SURATGARH",
+      "CollegeCity": "Sri Ganganagar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 84,
+      "collegename": "MAHAVEER INTERNATIONAL AGRICULTURE COLLEGE, GHARSANA",
+      "CollegeCity": "Sriganganagar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 85,
+      "collegename": "PARMANAND DEGREE COLLEGE GAN SINGHPUR",
+      "CollegeCity": "Sriganganagar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 86,
+      "collegename": "SPN AGRICULTURE COLLEGE, GOLLIWALA, HANUMANGARH",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 87,
+      "collegename": "S.S.S. AGRICULTURE COLLEGE, SRIGANGANAGAR",
+      "CollegeCity": "Sriganganagar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 88,
+      "collegename": "SARDAR BHAGAT SINGH AGRICULTURE COLLEGE, HANUMANGARH",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 89,
+      "collegename": "SHRI SHYAM KRISHI MAHAVIDYALAYA, BHADRA",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 90,
+      "collegename": "SKD AGRICULTURE COLLEGE KUTUB, HANUMANGARH",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 91,
+      "collegename": "SSP PARNAMI AG COLLEGE PADAMPUR, SRIGANGANAGAR",
+      "CollegeCity": "Sriganganagar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 92,
+      "collegename": "SURENDER KAUR MEMORIAL AGRICULTURE COLLEGE PADAMPUR",
+      "CollegeCity": "Sriganganagar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 93,
+      "collegename": "SWAMI KESHWANAND COLLEGE G.V. SANGARIA",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 94,
+      "collegename": "APEX SCHOOL OF AGRICULTURE, APEX UNIVERSITY, JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "APEX UNIVERSITY, JAIPUR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 95,
+      "collegename": "FACULTY OF AGRICULTURE SCIENCES, BHAGWANT UNIVERSITY, AJMER",
+      "CollegeCity": "Ajmer",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "BHAGWANT UNIVERSITY, AJMER",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 96,
+      "collegename": "BN COLLEGE OF AGRICULTURE, BHUPAL NOBLES UNIVERSITY, UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "BHUPAL NOBLES UNIVERSITY",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 97,
+      "collegename": "SCHOOL OF AGRICULTURE SCIENCES, CAREER POINT UNIVERSITY, KOTA",
+      "CollegeCity": "Kota",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "CAREER POINT UNIVERSITY, KOTA",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 98,
+      "collegename": "DEPARTMENT OF AGRICULTURE, JAGAN NATH UNIVERSITY, JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "JAGANNATH UNIVERSITY, JAIPUR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 99,
+      "collegename": "SCHOOL OF AGRICULTURAL SCIENCES, JNU, JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "JAIPUR NATIONAL UNIVERSITY, JAIPUR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 100,
+      "collegename": "JANARDAN RAY NAGAR RAJASTHAN VIDHYAPITH, UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "JANARDAN RAY NAGAR RAJASTHAN VIDHYAPITH, UDAIPUR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 101,
+      "collegename": "LORDS UNIVERSITY ALWAR",
+      "CollegeCity": "Alwar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "LORDS UNIVERSITY, CHIKANI ALWAR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 102,
+      "collegename": "COLLEGE OF AGRICULTURE, MAHARISHI ARVIND UNIVERISTY, JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "MAHARISHI ARVIND UNIVERISTY, JAIPUR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 103,
+      "collegename": "MJRP COLLEGE OF AGRICULTURE AND RESEARCH, MAHATMA JYOTI RAO PHOOLE UNIVERSITY, JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "MAHATMA JYOTI RAO PHOOLE UNIVERSITY, JAIPUR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 104,
+      "collegename": "NIRWAN UNIVERSITY, BASSI, JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "NIRWAN UNIVERSITY, BASSI, JAIPUR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 105,
+      "collegename": "RNBGU SCHOOL OF AGRICULTURE, RNB GLOBAL UNIVERSITY, BIKANER",
+      "CollegeCity": "Bikaner",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "RNB GLOBAL UNIVERSITY, BIKANER",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 106,
+      "collegename": "SCHOOL OF AGRICULTURAL SCIENCES, RAFFLES UNIVERSITY, NEEMRANA",
+      "CollegeCity": "Alwar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "RAFFLES UNIVERSITY, NEEMRANA, ALWAR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 107,
+      "collegename": "SANGAM UNIVERSITY, BHILWARA",
+      "CollegeCity": "Bhilwara",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SANGAM UNIVERSITY, BHILWARA",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 108,
+      "collegename": "FACULTY OF AGRICULTURE SCIENCES, SHRI KHUSHAL DAS UNIVERSITY, HANUMANGARH",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SHRI KHUSHAL DAS UNIVERSITY, HANUMANGARH",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 109,
+      "collegename": "SCHOOL OF AGRICULTURE AND VETERINARY SCIENCE, SHRIDHAR UNIVERSITY, CHIRAWA, PILANI",
+      "CollegeCity": "Jhunjhunu",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SHRIDHAR UNIVERSITY, CHIRAWA, PILANI, JHUNJHUNU",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 110,
+      "collegename": "DEPARTMENT OF AGRICULTURE, SHYAM UNIVERSITY, DAUSA",
+      "CollegeCity": "Dausa",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SHYAM UNIVERSITY, LALSOT, DAUSA",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 111,
+      "collegename": "SURESH GYAN VIHAR UNIVERSITY, JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "SURESH GYAN VIHAR UNIVERSITY, JAIPUR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 112,
+      "collegename": "FACULTY OF AGRICULTURE, TANTIA UNIVERSITY, SRI GANGANAGAR",
+      "CollegeCity": "Sriganganagar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "TANTIA UNIVERSITY, SRI GANGANAGAR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 113,
+      "collegename": "SCHOOL OF AGRICULTURE, UNIVERSITY OF TECHNOLOGY, VATIKA SANGANER (JAIPUR)",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "UNIVERSITY OF TECHNOLOGY, VATIKA, SANGANER (JAIPUR)",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 114,
+      "collegename": "VIVEKANAND GLOBAL UNIVERSITY JAIPUR",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "VIVEKANAND GLOBAL UNIVERSITY, JAIPUR",
+      "CollegeCategory": "Private University Colleges"
+    },
+    {
+      "s.n": 115,
+      "collegename": "COLLEGE OF AGRICULTURE BAYTU",
+      "CollegeCity": "Barmer",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 44,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 116,
+      "collegename": "COLLEGE OF AGRICULTURE BAYTU",
+      "CollegeCity": "Barmer",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 16,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 117,
+      "collegename": "COLLEGE OF AGRICULTURE JODHPUR",
+      "CollegeCity": "Jodhpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 74,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 118,
+      "collegename": "COLLEge OF AGRICULTURE JODHPUR",
+      "CollegeCity": "Jodhpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 32,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 119,
+      "collegename": "COLLEGE OF AGRICULTURE NAGAUR",
+      "CollegeCity": "Nagaur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 74,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 120,
+      "collegename": "COLLEGE OF AGRICULTURE NAGAUR",
+      "CollegeCity": "Nagaur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 32,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 121,
+      "collegename": "COLLEGE OF AGRICULTURE, SUMERPUR",
+      "CollegeCity": "Pali",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 74,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 122,
+      "collegename": "COLLEGE OF AGRICULTURE SUMERPUR",
+      "CollegeCity": "Pali",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 32,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 123,
+      "collegename": "COLLEGE OF AGRICULTURE HINDOLI",
+      "CollegeCity": "Bundi",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 50,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 124,
+      "collegename": "COLLEGE OF AGRICULTURE HINDOLI",
+      "CollegeCity": "Bundi",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 40,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 125,
+      "collegename": "COLLEGE OF AGRICULTURE UMMEDGANJ, KOTA",
+      "CollegeCity": "Kota",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 27,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 126,
+      "collegename": "COLLEGE OF AGRICULTURE UMMEDGANJ KOTA",
+      "CollegeCity": "Kota",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Payment Seat",
+      "TotalNoOfSeats": 25,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "University Constituent Colleges"
+    },
+    {
+      "s.n": 127,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE BARMER",
+      "CollegeCity": "Barmer",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 128,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, DEEDWANA",
+      "CollegeCity": "Nagaur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 129,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, GUDAMALANI BARMER",
+      "CollegeCity": "Barmer",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 130,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, KESHWANA (JALORE)",
+      "CollegeCity": "Jalore",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 131,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, NAWA CITY",
+      "CollegeCity": "Nagaur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 132,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, OSIAN",
+      "CollegeCity": "Jodhpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 133,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE SIROHI",
+      "CollegeCity": "Sirohi",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 134,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, BARAN",
+      "CollegeCity": "Baran",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 135,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, BEHRAWANDA KHURD (KHANDAR)",
+      "CollegeCity": "Sawai Madhopur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 136,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, GANGAPUR CITY, SAWAI MADHOPUR",
+      "CollegeCity": "Sawai Madhopur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 137,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, HINDAUN CITY",
+      "CollegeCity": "Karauli",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 138,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, KARAULI",
+      "CollegeCity": "Karauli",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 139,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, SAWAI MADHOPUR",
+      "CollegeCity": "Sawai Madhopur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 66,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 140,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, SHAHBAD, KELWADA",
+      "CollegeCity": "Baran",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 141,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, TODABHIM",
+      "CollegeCity": "Karauli",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 142,
+      "collegename": "GOVERNMENT COLLEGE, SAPOTRA",
+      "CollegeCity": "Karauli",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 143,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, BASSI CHITTORGARH",
+      "CollegeCity": "Chittorgarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 144,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, BORWAT-BANSWARA",
+      "CollegeCity": "Banswara",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 145,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, GANGAPUR BHILWARA",
+      "CollegeCity": "Bhilwara",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 146,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE GOGUNDA-UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 147,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, KHERWARA-UDAIPUR",
+      "CollegeCity": "Udaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 148,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, MANDALGARH, BHILWARA",
+      "CollegeCity": "Bhilwara",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 149,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, PHULIAKALAN (SHAHPURA)",
+      "CollegeCity": "Bhilwara",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 150,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, PIPLOOND, JAHAJPUR BHILWARA",
+      "CollegeCity": "Bhilwara",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 151,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, PRATAPGARH",
+      "CollegeCity": "Pratapgarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 152,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, RAJSAMAND",
+      "CollegeCity": "Rajsamand",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 153,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, RAWATBHATA",
+      "CollegeCity": "Chittorgarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 154,
+      "collegename": "BBO GOVERNMENT COLLEGE (GOVERNMENT AGRICULTURE COLLEGE), CHIMANPURA",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 155,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, BAHRAVANDA (SIKRAI), DAUSA",
+      "CollegeCity": "Dausa",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 156,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, BALAHEDA (MAHWA, DAUSA)",
+      "CollegeCity": "Dausa",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 157,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, BHARATPUR (MSI)",
+      "CollegeCity": "Bharatpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 158,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, DAUSA",
+      "CollegeCity": "Dausa",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 159,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, DHOLPUR",
+      "CollegeCity": "Dholpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 160,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, JAMWARAMGARH (JAIPUR)",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 66,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 161,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, KEKRI",
+      "CollegeCity": "Ajmer",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 162,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, KHEDLABUJURG (MAHUWA)",
+      "CollegeCity": "Dausa",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 163,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, KUMHER (DEEG)",
+      "CollegeCity": "Bharatpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 164,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, MACHADI (RENGUS) ALWAR",
+      "CollegeCity": "Alwar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 165,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, MAUJAMABAD (DUDU)",
+      "CollegeCity": "Jaipur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 166,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE MUNDAWAR",
+      "CollegeCity": "Alwar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 167,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE PAHARI (KAMAN), BHARATPUR",
+      "CollegeCity": "Bharatpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 168,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, SIKRI, BHARATPUR",
+      "CollegeCity": "Bharatpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 169,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE TUARA",
+      "CollegeCity": "Alwar",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 170,
+      "collegename": "GOVERNMENT COLLEGE, UNIARA, TONK",
+      "CollegeCity": "Tonk",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKNAU, JOBNER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 171,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, CHIRAWA, JHUNJHUNU",
+      "CollegeCity": "Jhunjhunu",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 172,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE CHURU",
+      "CollegeCity": "Churu",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 173,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, JOGIWALA-BHADRA",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 174,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, NOHAR-HANUMANGARH",
+      "CollegeCity": "Hanumangarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 175,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE POKARAN JAISALMER",
+      "CollegeCity": "Jaisalmer",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 176,
+      "collegename": "GOVERNMENT AGRICULTURE COLLEGE, TARANAGAR",
+      "CollegeCity": "Churu",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "SKRAU, BIKANER",
+      "CollegeCategory": "Affiliated Government Colleges"
+    },
+    {
+      "s.n": 177,
+      "collegename": "MAYURAKSHI COLLEGE OF AGRICULTURE, JODHPUR",
+      "CollegeCity": "Jodhpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 178,
+      "collegename": "SHRI JEETENDRA GODARA'S SLBS KRISHI MAHAVIDYALAYA, JODHPUR",
+      "CollegeCity": "Jodhpur",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, JODHPUR",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 179,
+      "collegename": "APEX INSTITUTE OF AGRICULTURE AND RESEARCH, KOTA",
+      "CollegeCity": "Kota",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 180,
+      "collegename": "BUNDI AGRICULTURE COLLEGE BUNDI",
+      "CollegeCity": "Bundi",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 181,
+      "collegename": "MBODS MAHILA KRISHI MAHAVIDHYALAYA, BARAN (ONLY FOR GIRLS)",
+      "CollegeCity": "Baran",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 182,
+      "collegename": "SORABH AGRICULTURE COLLEGE HINDAUN CITY, KARAULI",
+      "CollegeCity": "Karauli",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 160,
+      "UniversityName": "AU, KOTA",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 183,
+      "collegename": "RNT COLLEGE OF AGRICULTURE, KAPASAN",
+      "CollegeCity": "Chittorgarh",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 120,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Private Colleges"
+    },
+    {
+      "s.n": 184,
+      "collegename": "SHRINATHJI COLLEGE OF AGRICULTURE, UPALI ODEN, NATHDWARA",
+      "CollegeCity": "Nathdwara",
+      "CourseOffered": "AGRICULTURE",
+      "SeatType": "Normal",
+      "TotalNoOfSeats": 60,
+      "UniversityName": "MPUAT, UDAIPUR",
+      "CollegeCategory": "Affiliated Private Colleges"
+    }
+  ]
+}
