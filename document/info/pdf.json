@@ -5,6 +5,7 @@
     "upload_time": 1784912580566,
     "tag": "1 semester",
     "total_page": 25,
+    "cat":"BSC",
     "medium": "English"
   },
   {
@@ -99,7 +100,8 @@
     "file_id": "1784958691498",
     "file_name": "AAO syllabus (New)",
     "upload_time": 1784958691498,
-    "tag": "AAO",
+    "cat": "AAO",
+    "tag":"Syllabus",
     "total_page": 3,
     "medium": "English"
   },
