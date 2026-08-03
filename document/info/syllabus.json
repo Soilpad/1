@@ -1,5 +1,4 @@
 {
-  "1st": "bsc-agri-sem-1",
   "2nd": "bsc-agri-sem-2",
   "3rd": "bsc-agri-sem-3",
   "4th": "bsc-agri-sem-4",
@@ -9,5 +8,6 @@
   "8th": "bsc-agri-sem-8",
   "supervisor": "agri-supervisor-syllabus",
   "jet": "jet-exam-syllabus",
-  "cuet": "cuet-exam-syllabus"
+  "cuet": "cuet-exam-syllabus",
+  "1784912580566": "bsc-agri-sem-1"
 }
