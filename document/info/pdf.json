@@ -1,6 +1,6 @@
 [
   {
-    "file_id": "1784912580566",
+    "file_id": "912580",
     "file_name": "SYLLABUS",
     "upload_time": 1784912580566,
     "tag": "1 semester",
@@ -9,95 +9,106 @@
     "medium": "English"
   },
   {
-    "file_id": "1784912678527",
+    "file_id": "912678",
     "file_name": "SYLLABUS",
     "upload_time": 1784912678527,
     "tag": "2 semester",
     "total_page": 22,
+    "cat": "BSC",
     "medium": "English"
   },
   {
-    "file_id": "1784912855214",
+    "file_id": "912855",
     "file_name": "SYLLABUS",
     "upload_time": 1784912855214,
     "tag": "3 semester",
     "total_page": 22,
+    "cat": "BSC",
     "medium": "English"
   },
   {
-    "file_id": "1784912970836",
+    "file_id": "912970",
     "file_name": "SYLLABUS",
     "upload_time": 1784912970837,
     "tag": "4 semester",
     "total_page": 23,
+    "cat": "BSC",
     "medium": "English"
   },
   {
-    "file_id": "1784913098774",
+    "file_id": "913098",
     "file_name": "SYLLABUS",
     "upload_time": 1784913098779,
     "tag": "5 semester",
     "total_page": 24,
+    "cat": "BSC",
     "medium": "English"
   },
   {
-    "file_id": "1784913269830",
+    "file_id": "913269",
     "file_name": "MCQ crop physiology",
     "upload_time": 1784913269832,
     "tag": "5 semester",
     "total_page": 6,
+    "cat": "BSC",
     "medium": "Hindi"
   },
   {
-    "file_id": "1784913445678",
+    "file_id": "913445",
     "file_name": "Plant Pathology (short)",
     "upload_time": 1784913445683,
     "tag": "2 semester",
     "total_page": 5,
+    "cat": "BSC",
     "medium": "English"
   },
   {
-    "file_id": "1784913616172",
+    "file_id": "913616",
     "file_name": "MARKETING (question)",
     "upload_time": 1784913616175,
     "tag": "5 semester",
     "total_page": 9,
+    "cat": "BSC",
     "medium": "Hindi"
   },
   {
-    "file_id": "1784952550300",
+    "file_id": "952550",
     "file_name": "AGRO FORESTRY",
     "upload_time": 1784952550302,
     "tag": "5 semester",
     "total_page": 146,
+    "cat": "BSC",
     "medium": "English"
   },
   {
-    "file_id": "1784953075709",
+    "file_id": "953075",
     "file_name": "MARKETING (Short)",
     "upload_time": 1784953075709,
     "tag": "5 semester",
     "total_page": 6,
+    "cat": "BSC",
     "medium": "Hindi"
   },
   {
-    "file_id": "1784957872682",
+    "file_id": "957872",
     "file_name": "ENTOMOLOGY (PYQ)-2023",
     "upload_time": 1784957872683,
     "tag": "2 semester",
     "total_page": 12,
+    "cat": "BSC",
     "medium": "English"
   },
   {
-    "file_id": "1784958227339",
+    "file_id": "958227",
     "file_name": "ENTOMOLOGY(MCQ)",
     "upload_time": 1784958227339,
     "tag": "2 semester",
     "total_page": 22,
+    "cat": "BSC",
     "medium": "Hindi"
   },
   {
-    "file_id": "1784958691498",
+    "file_id": "958691",
     "file_name": "AAO syllabus (New)",
     "upload_time": 1784958691498,
     "cat": "AAO",
@@ -106,107 +117,120 @@
     "medium": "English"
   },
   {
-    "file_id": "1785224425800",
+    "file_id": "224425",
     "file_name": "Forestry (Hindi)",
     "upload_time": 1785224425800,
     "tag": "5 semester",
     "total_page": 18,
+    "cat": "BSC",
     "medium": "Hindi"
   },
   {
-    "file_id": "1785224714107",
+    "file_id": "224714",
     "file_name": "LPM-121 solved paper",
     "upload_time": 1785224714109,
     "tag": "2 semester",
     "total_page": 65,
+    "cat": "BSC",
     "medium": "Hindi"
   },
   {
-    "file_id": "1785225723184",
+    "file_id": "225723",
     "file_name": "LPM OLD PAPER SOLVED",
     "upload_time": 1785225723184,
     "tag": "6 semester",
     "total_page": 100,
+    "cat": "BSC",
     "medium": "Both"
   },
   {
-    "file_id": "1785315395430",
+    "file_id": "315395",
     "file_name": "CUET PG ( SYLLABUS) All subjects (new)",
     "upload_time": 1785315395432,
-    "tag": "CUET",
+    "tag": "Syllabus",
     "total_page": 109,
+    "cat": "CUET",
     "medium": "English"
   },
   {
-    "file_id": "1785566282537",
+    "file_id": "566282",
     "file_name": "Ornamentals Crops (book)",
     "upload_time": 1785566282538,
     "tag": "5 semester",
     "total_page": 75,
+    "cat": "BSC",
     "medium": "Hindi"
   },
   {
-    "file_id": "1785566762705",
+    "file_id": "566762",
     "file_name": "Landscaping (short)",
     "upload_time": 1785566762706,
     "tag": "5 semester",
     "total_page": 16,
+    "cat": "BSC",
     "medium": "Hindi"
   },
   {
-    "file_id": "1785566952141",
+    "file_id": "566952",
     "file_name": "Weed Science (ppt)",
     "upload_time": 1785566952144,
     "tag": "5 semester",
     "total_page": 61,
+    "cat": "BSC",
     "medium": "English"
   },
   {
-    "file_id": "1785567294513",
+    "file_id": "567294",
     "file_name": "Medicinal&Aromatic  Crops (MCQ)",
     "upload_time": 1785567294519,
     "tag": "5 semester",
     "total_page": 10,
+    "cat": "BSC",
     "medium": "Hindi"
   },
   {
-    "file_id": "1785567649514",
+    "file_id": "567649",
     "file_name": "AGROMETEOROLOGY",
     "upload_time": 1785567649516,
     "tag": "5 semester",
     "total_page": 71,
+    "cat": "BSC",
     "medium": "Both"
   },
   {
-    "file_id": "1785669512232",
+    "file_id": "669512",
     "file_name": "GPB-121 PAPER 2020-21",
     "upload_time": 1785669512235,
     "tag": "2 semester",
     "total_page": 28,
+    "cat": "BSC",
     "medium": "Both"
   },
   {
-    "file_id": "1785669737960",
+    "file_id": "669737",
     "file_name": "GPB-121, Old solved Papers",
     "upload_time": 1785669737964,
     "tag": "2 semester",
     "total_page": 37,
+    "cat": "BSC",
     "medium": "Hindi"
   },
   {
-    "file_id": "1785669941496",
+    "file_id": "669941",
     "file_name": "PPATH-121, Old solved Papers",
     "upload_time": 1785669941498,
     "tag": "2 semester",
     "total_page": 25,
+    "cat": "BSC",
     "medium": "Hindi"
   },
   {
-    "file_id": "1785670129446",
+    "file_id": "670129",
     "file_name": "AGRON-121,Old Solved Question papers",
     "upload_time": 1785670129447,
     "tag": "2 semester",
     "total_page": 34,
+    "cat": "BSC",
     "medium": "English"
   },
   {
@@ -216,6 +240,6 @@
     "cat": "BSC",
     "tag": "4 semester",
     "total_page": 119,
-    "medium": "English"
+    "medium": "Hindi"
   }
 ]
